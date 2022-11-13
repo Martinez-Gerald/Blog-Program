@@ -25,6 +25,8 @@ class SuperUser : public User
 
     // return the Alias
     void setAlias(string a);
+    // change alias
+    void changeAlias(string a);
 
     // set User type
     void setUserType(int i);

@@ -1,5 +1,5 @@
 //
-// Created by 18604 on 3/10/2022.
+// Created by Gerald on 10/10/2022.
 //
 
 #include "User.h"
@@ -10,7 +10,10 @@ User::User() {
     Password = "";
     UserType= NORMAL;
 }
-
+void User:: changeAlias(string a)
+{
+    setAlias(a);
+}
 User::User(string nm, string alias, string pwd) {
     Name =nm;
     Alias = alias;

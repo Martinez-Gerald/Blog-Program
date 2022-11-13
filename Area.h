@@ -1,5 +1,5 @@
 //
-// Created by 18604 on 3/10/2022.
+// Created by Gerald on 10/10/2022.
 //
 #include <iostream>
 #include <vector>
@@ -16,7 +16,7 @@ using namespace std;
 class Area {
 public:
     //overload <<
-    friend ostream& operator <<(ostream& outputStream, const Area& area);
+    friend ostream &operator<<(ostream &outputStream, const Area &area);
 
 
     // return the name of the Area

@@ -1,33 +1,26 @@
 Com Sci
 This blog is where people post about computer science.
-3
-I love programming
+2
 Programming is so much fun.
 Tom
+I love programming
 0
 0
 0
 0
-Gerald is good
-Gerry
-testing 123
-1
-1
-0
-0
-new title
-Gerry
-howdie
+C++ versus Python
+Sally
+I like C++ more than Python.
 0
 0
 0
-1
+0
 Current Events
 This blog is where people post current events.
 1
-Picnic Saturday
 Join us at the park for a picnic on Saturday
 Sue
+Picnic Saturday
 0
 0
 0
@@ -35,16 +28,16 @@ Sue
 Movies
 This blog is where people post things about movies.
 2
-My Fav Movie
 Star Wars
 Billy
+My Fav Movie
 0
 0
 0
 0
-Movie I despise
 The clock work orange
 Jean
+Movie I despise
 0
 0
 0
@@ -52,16 +45,16 @@ Jean
 Food
 This blog is where people post things about food.
 2
-My fav Pizza
 I love Pizza with extra cheese and onions
 Bailey
+My fav Pizza
 0
 0
 0
 0
-Icecream
 I love coffe icecream with chocolate jimies
 Joe
+Icecream
 0
 0
 0
@@ -69,16 +62,16 @@ Joe
 Vacation
 This blog is where people post things about vacations.
 2
-Best place to Vacation
 Baniff Canada
 Kyle
+Best place to Vacation
 0
 0
 0
 0
-Worst Vacation
 Stayed at home
 Mary Jo
+Worst Vacation
 0
 0
 0

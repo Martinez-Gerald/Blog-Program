@@ -50,14 +50,17 @@ void SuperUser:: setUserType(int i)
 {
     UserType=i;
 }
-
-//
+void SuperUser:: changeAlias(string a)
+{
+    setAlias(a);
+}
 void SuperUser::setName(string nm) {
     Name =nm;
 
 }
-
 // set the Password
 void SuperUser::setPassword(string p) {
     Password = p;
 }
+//delete a an area
+

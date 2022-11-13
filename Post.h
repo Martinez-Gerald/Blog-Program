@@ -1,5 +1,5 @@
 //
-// Created by 18604 on 3/10/2022.
+// Created by Gerald on 10/10/2022.
 //
 
 #include <iostream>
@@ -26,7 +26,6 @@ public:
     int setLoves(int l);
     int setHates(int h);
     int setDislikes(int d);
-
     // return the Title
     string getTitle() const;
 
@@ -56,6 +55,7 @@ private:
     string Title; //title
     string Text; //title
     string User;
+    string Alias;
     int love;
     int like;
     int hate;

@@ -1,5 +1,5 @@
 //
-// Created by 18604 on 3/10/2022.
+// Created by Gerald on 10/10/2022.
 //
 #include <iostream>
 
@@ -18,7 +18,8 @@ public:
     enum UserTypes {NORMAL,SUPERUSER};
     //return the UserType
     int getUserType() const;
-
+    // change alias
+    virtual void changeAlias(string a);
     // return the Name
     string getName() const;
 
